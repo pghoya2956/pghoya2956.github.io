@@ -1,0 +1,3 @@
+[submodule "themes/feelit"]
+	path = themes/feelit
+	url = https://github.com/khusika/FeelIt.git

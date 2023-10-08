@@ -1,0 +1,26 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Temp or backup files
+*.tmp
+*.swp
+*.log
+*.bak
+
+# Editor generated files (depending on your editor)
+.vscode/
+.idea/
+
+# Node (if you are using any frontend tools like postcss)
+node_modules/
